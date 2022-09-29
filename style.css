@@ -1,0 +1,33 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #9aecdb;
+  background-size: cover;
+  color: rgb(19, 20, 20);
+}
+.jumbotron a {
+  text-decoration: none;
+}
+.jumbotron a:hover {
+  color: white;
+  text-decoration: underline;
+}
+#projects {
+  background-color: #9aecdb;
+}
+section {
+  padding-top: 5rem;
+}
+.navbar-brand {
+  background-size: cover;
+}
+.navbar .navbar-nav li a {
+  color: cyan;
+  text-decoration: none;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover {
+  color: white;
+  /* text-decoration: underline; */
+}
+footer a:hover {
+  color: white;
+}
